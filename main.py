@@ -1,4 +1,4 @@
-```python
-def grеet(name):
+python
+def grЕet(name):
 return f"Hello, {name}!"
-```
+
