@@ -1,4 +1,3 @@
 python
-def 
-greet(name):
+defgreet(name):
   return f"Hello, {name}!"
