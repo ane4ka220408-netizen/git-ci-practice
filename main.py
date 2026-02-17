@@ -1,4 +1,4 @@
 ```python
-def greet(name):
+def grеet(name):
 return f"Hello, {name}!"
 ```
