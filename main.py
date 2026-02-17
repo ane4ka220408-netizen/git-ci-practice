@@ -1,4 +1,4 @@
 python
-def grЕet(name):
-  return f"Hello, {namа}!"
-
+def 
+greet(name):
+  return f"Hello, {name}!"
